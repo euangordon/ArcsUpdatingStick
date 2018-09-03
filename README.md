@@ -1,4 +1,4 @@
-# ArcsUpdatingStickReleases
+# ArcsUpdatingStickReleases v1.0.0
 
 The Arcs Updating Stick allows you to easily download updates for ARCS (Admiralty Raster Chart Service). 
 Simply stick your ARCS Updating Stick USB into your Back of Bridge computer and Check for Updates. 
