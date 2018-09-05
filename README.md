@@ -7,4 +7,5 @@ Once this has completed, move the USB into your ECDIS and udpate it as normal.
 
 # Updates
 Shows Version Number
-Improved Syncing of Files
+Improved Downloading of Files
+Updated Dependencies
